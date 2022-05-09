@@ -1,0 +1,13 @@
+.entry-info {
+  visibility: hidden;
+  display: none;
+}
+.entry-footer.clearfix {
+  visibility: hidden;
+  display: none;
+}
+
+.site-info.container {
+  visibility: hidden;
+  display: none;
+}

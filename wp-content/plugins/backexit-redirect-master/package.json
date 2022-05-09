@@ -1,0 +1,25 @@
+{
+  "name": "backexit-redirect",
+  "version": "1.0.0",
+  "description": "Redireciona usuários ao clique no botão voltar ou em exit intent.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvsconcelos/backexit-redirect.git"
+  },
+  "author": "Alvaro V.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvsconcelos/backexit-redirect/issues"
+  },
+  "homepage": "https://github.com/alvsconcelos/backexit-redirect#readme",
+  "dependencies": {
+    "gulp": "^4.0.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-terser": "^1.1.7"
+  }
+}

@@ -1,0 +1,1 @@
+{"melhormaquina.com.br":"m1","renda-com-videos.melhormaquina.com.br":"m12","paudecavalogel.melhormaquina.com.br":"m7","cavalogrande.melhormaquina.com.br":"m4","rainhadopix.melhormaquina.com.br":"m2","g1.melhormaquina.com.br":"m3"}

@@ -1,0 +1,34 @@
+.ast-container {
+  background-color: #ffffff;
+}
+
+#post-14736.post-14736.post.type-post.status-publish.format-standard.has-post-thumbnail.hentry.category-comparativo.ast-grid-common-col.ast-full-width.ast-article-post {
+  display: none;
+}
+
+.entry-meta {
+  display: none;
+}
+
+.attachment-large.size-large.wp-post-image.jetpack-lazy-image {
+  display: none;
+}
+
+.ast-footer-copyright p {
+  display: none;
+}
+
+.site-below-footer-wrap.ast-builder-grid-row-container.site-footer-focus-item.ast-builder-grid-row-full.ast-builder-grid-row-tablet-full.ast-builder-grid-row-mobile-full.ast-footer-row-stack.ast-footer-row-tablet-stack.ast-footer-row-mobile-stack {
+  background-color: #ffffff;
+}
+
+.entry-content>:last-child {
+  display: none;
+}
+element.style {
+		  display: none;
+}
+
+element.style {
+		display:none;
+}
